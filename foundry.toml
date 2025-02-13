@@ -1,4 +1,4 @@
-[profile.default]
+[0x5Ab3b632B3A19139517FbF9De3d74eF411d45c68]
 src = 'contracts'
 test = 'test'
 script = 'foundry-script'
