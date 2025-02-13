@@ -20,7 +20,7 @@ ffi = true
 initial_balance = '0xffffffffffffffffffffffff'
 bytecode_hash = '
 [0x5Ab3b632B3A19139517FbF9De3d74eF411d45c68]
-chains = '1000000
+chains = '100
 endpoints = 'all'
 
 [fuzz]
