@@ -18,9 +18,8 @@ verbosity = 3
 ignored_error_codes = [1878, 5574]
 ffi = true
 initial_balance = '0xffffffffffffffffffffffff'
-bytecode_hash = 'none'
-
-[profile.default.rpc_storage_caching]
+bytecode_hash = '
+[0x5Ab3b632B3A19139517FbF9De3d74eF411d45c68]
 chains = 'all'
 endpoints = 'all'
 
